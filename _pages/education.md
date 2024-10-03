@@ -12,37 +12,44 @@ redirect_from:
 <hr>
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
-Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/BSC-Certificate.jpg)<br/>
-CGPA: <b>3.571/4.00</b> (3.652 in the last 61.5 semester credit hours) <br/>
+Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate]](https://jannatim-maisha.github.io/files/BSC-Certificate.jpg)<br/>
+CGPA: <b>3.869/4.00</b> (2nd in Merit) <br/>
 Duration: 2020 - 2024 <br/>
-<b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en">Mr. Md. Masudur Rahman</a><br/><b>Thesis Title:</b> Bengali Image Captioning Using Deep Learning Methods<br/><b>Thesis Summary:</b> Implemented DL approaches such as, fine-tuning pre-trained GPT-2 decoder using clip encoder prefix, vision transformer encoder and BERT/Electra/GPT-2 decoder based encoder-decoder methods etc. for Bengali image captioning using our custom native Bengali dataset containing 40,000 human annotated captions.
+<b>Thesis Supervisor:</b> <a style="color:black;" href="https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en">Mr. Faisal Muhammad Shah</a><br/><b>Thesis Title:</b> A study of contrastive learning methods for bengali social analysis.
 <br/>
 
 <span style="font-family:Georgia; color:black;">
-<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://gccc.edu.bd/" target="_blank">Government City College, Chattrogram</a></b></span><br/>
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="" target="_blank">Motĳheel Ideal School and College</a></b></span><br/>
 Higher Secondary Certificate (HSC) [[Certificate]]()<br/>
 GPA: <b>5.00/5.00</b><br/>
 Duration: 2017 - 2019 <br/>
 </span>
 
 <span style="font-family:Georgia; color:black;">
-<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://ctgcs.edu.bd/" target="_blank">Chittagong Collegiate School</a></b></span><br/>
-Secondary School Certificate (SSC) [[Certificate]](https://muhammad-azmain-mahtab.github.io/files/SSC_certificate.jpg)<br/>
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="" target="_blank">Motĳheel Government Girls High School</a></b></span><br/>
+Secondary School Certificate (SSC) [[Certificate]](https://jannatim-maisha.github.github.io/files/SSC_certificate.jpg)<br/>
 GPA: <b>5.00/5.00</b><br/>
 Duration: 2015 - 2017 <br/>
 </span>
 <br/>
 # Participation and Awards
 <hr>
-* Sub-Reviewer at 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS).
-* Champion - Intra Aust Software Exhibition (2024). [Certificate](https://drive.google.com/file/d/1rfu_A2ey9hoSMlxltG6Rpj_jsCe0kdn2/view?usp=sharing)
-* Achieved Selection for $10,000 AWS Credit Facility - Successfully pitched the incorporation of AI to Automate Event Management, leading to our startup EONE TECHNOLOGIES being one of the 34 Bangladeshi startups shortlisted for a credit facility from Amazon Web Services (AWS).
-* Attended the workshop [AWS Startup Day Bangladesh](https://aws.knowledgevale.com/) organized by Amazon Web Services (2023). [Certificate](https://drive.google.com/file/d/1F3FTTEog7aVlpVwG8Muov3LqIbwS4AzI/view?usp=sharing)
-* General Member at IEEE AUST Student Branch (IASB).
-* General Member at at AUST Innovation and Design Club.
-
-<br/>
-# Undergraduate Academic projects
+* Dean’s List of Honor.
+* Academic Excellence - 50% tuition waiver awarded each semester based on academic result, AUST. (2020-2024)
+* Intra AUST software exhibition 2024 (1st).
+* Intra AUST software exhibition 2023, 2022.
+* Intra AUST Programming contest 2022.
+* National Girls Programming Contest 2022. <a href="https://drive.google.com/file/d/1WskwtekgOwxGpmhfWeDb20TALOIJTP8U/view?usp=sharing">Certificate</a>
+* National Girls Programming Contest 2021. <a href="https://drive.google.com/file/d/1--XsiV_f94JElfC6CJxF_GCl55HFTbNa/view?usp=sharing">Certificate</a>
+* INFORMATICS’2024 Grant - Received a publication fee grant.
+* Presenter Author-Technical Session of ICEEICT2024.
+* Top 20, Huawei Seeds For The Future 2023.
+* Startup Winning Pitch, Among 34 Bangladeshi startups eligible for $10,000 credit facilities each from Amazon Web Services (AWS).
+* Participated in the workshop AWS Startup Day Bangladesh jointly organized by AWS, Knowledgevale, Daffodil International University and Bangladesh Venture Capital (2023).
+* Campaign Winner-Shikhi Ebong Shikhai- 10 Minute School. (2019)
+* Government Scholarship (Dhaka Board) - Prestigious government scholarship for academic excellence. (2011)
+<!-- <br/> -->
+<!-- # Undergraduate Academic projects
 <hr>
 * **University Programming Club Website** - BERT, ASP.NET Core, C#, MSSQL Server (2023) [[Github]](https://github.com/muhammad-azmain-mahtab/AustPIC_official)<br />Keywords: AI-moderation, AI-keyword extraction, AntiXSS Middleware, AJAX, Dynamic CSS, Authorization.
 * **Vacation Home Rental Distributed Database System** - Oracle (2023) [[Github]](https://github.com/muhammad-azmain-mahtab/Vacation-Home-Rental-System)
@@ -53,6 +60,6 @@ Duration: 2015 - 2017 <br/>
 * <b>Android Food Delivery Application (user end)</b> - Android Studio, Kotlin, Firebase (2022) [[Github]](https://github.com/muhammad-azmain-mahtab/HelloFood)<br />Keywords: Dynamic cart, Cart single shop constraint, Location based shop availibility & delivery costs.
 * <b>Portfolio Website</b> - HTML, CSS, Bootstrap, JavaScript (2022) [[Github]](https://github.com/muhammad-azmain-mahtab/Portfolio-Website)
 * <b>Online Computer Shop Application</b> - JAVA FX, MySQL (2021) [[Github]](https://github.com/muhammad-azmain-mahtab/OneClickComputers)
-* <b>2D Platformer Game</b> - iGraphics Library, C++ (2021)
+* <b>2D Platformer Game</b> - iGraphics Library, C++ (2021) -->
 
 ___________________________________________

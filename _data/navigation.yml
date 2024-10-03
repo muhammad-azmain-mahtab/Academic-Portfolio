@@ -8,13 +8,16 @@ main:
   - title: "Home"
     url: /
   
-  - title: "Research"
+  - title: "Research & Publications"
     url: /research/
 
-  - title: "Education & Activities"
+  - title: "Education & Awards"
     url: /education/    
     
-  - title: "Professional Experience"
+  - title: "Teaching"
+    url: /teaching/ 
+
+  - title: "Experience"
     url: /experience/ 
     
   - title: "CV"

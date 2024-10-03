@@ -8,42 +8,42 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Muhammad Azmain Mahtab"
+title                    : "Jannatim Maisha"
 title_separator          : "-"
-name                     : &name "Muhammad Azmain Mahtab"
+name                     : &name "Jannatim Maisha"
 description              : &description "Portfolio"
-url                      : https://muhammad-azmain-mahtab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jannatim-maisha.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "muhammad-azmain-mahtab.github.io"
+repository               : "jannatim-maisha.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "round_pic.png"
-  name             : "Muhammad Azmain Mahtab"
+  avatar           : "Pi7_Passport_Photo_3.jpeg"
+  name             : "Jannatim Maisha"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher || Computer Vision, NLP, LLMs, Contrastive Learning and GAN"
+  bio              : "Adjunct Lecturer @ Southeast University"
   location         : "Dhaka, Bangladesh"
   employer         : # URL
   uri              : # URL
-  email            : "azmainmah@gmail.com" 
+  email            : "maishapousy@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=aIsHqbYAAAAJ&hl=en"
+  googlescholar    : ""
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Muhammad-Azmain-Mahtab"
+  researchgate     : "https://www.researchgate.net/profile/Jannatim-Maisha"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "muhammad-azmain-mahtab"
+  github           : "jannatim-maisha"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "muhammad-azmain-mahtab-45a60b255"
+  linkedin         : "jannatim-maisha-a464b41a0/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
