@@ -16,7 +16,7 @@ Department of Computer Science and Engineering<br />
 <b>Courses</b>
 <details>
 <summary>CSE241: Data Structures</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Summer 2024</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducting in Summer 2024</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
 <strong>Syllabus</strong>: Introduction to Algorithm, Pseudo-code, Flowchart; Linear Search; Binary Search; Selection Sort; Insertion Sort; Merge Sort: Divide; Merge Sort: Conquer; Quick Sort: Partition; Quick Sort; Singly Linked List (intro); Linked Lists: Searching & Insertion; Linked Lists: Deletion of a node; Stack; Queues; Tower of Hanoi; Expression Evaluation; Infix to Postfix Conversion; Graph Introduction; Breadth-First Search (BFS); Depth-First Search (DFS); Tree, Tree Traversal; Binary Search Tree (BST); Basics of Hashing; Collision Resolution Techniques Coalesced Chaining Hashing.
@@ -26,7 +26,7 @@ Department of Computer Science and Engineering<br />
 
 <details>
 <summary>CSE181: Discrete Mathematics</summary>
-<span style="color:green"><font size="3"><ins>Conducted in Summer 2024</ins></font></span><br>
+<span style="color:green"><font size="3"><ins>Conducting in Summer 2024</ins></font></span><br>
 <span style="text-align:justify; color:black; display:block;">
 <font size="3">
 <strong>Syllabus</strong>: Introduction, Propositional Calculus: Simple and compound propositions, Conditional and biconditional statements, Propositional equivalences; Predicate Calculus: Predicates and quantified predicates, translating natural language sentences to sentences in predicate logic; Proof: Theorems and proofs, Inference rules of propositional and predicate logic, Methods of proof; Set Theory: Set and set membership, set operations, Set equivalences; Relations: Relations and their  representation, Properties of binary  relations, Equivalence relations and classes; Functions: Binary relations and functions, Basic classes of functions, Composition of functions, Discrete valued functions; Counting and Countability: Sum and product rules, Principle of inclusion and exclusion, Pigeonhole principle, Recurrence relations, Countable and uncountable sets; Graph Theory: Undirected and directed graphs, Handshaking Theorem, Classes of graphs, Trees and their properties, Planar graphs, Eulerian graphs, Hamiltonian graphs, Computer representation of graphs, Graph isomorphism; Algebraic Structures: Algebraic systems and their signature, Classes of algebras, Boolean algebra. Introduction to finite automata and Turing machine.
