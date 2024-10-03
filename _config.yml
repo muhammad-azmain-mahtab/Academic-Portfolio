@@ -12,9 +12,9 @@ title                    : "Jannatim Maisha"
 title_separator          : "-"
 name                     : &name "Jannatim Maisha"
 description              : &description "Portfolio"
-url                      : https://jannatim-maisha.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://muhammad-azmain-mahtab.github.io/Academic-Portfolio/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jannatim-maisha.github.io"
+repository               : "Academic-Portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
